@@ -1,0 +1,24 @@
+ID,Name,Equipment,Type,Field,Players,Contact,Location
+1,Basketball,ball,team,"outdoor court, indoor court, ",5,"hands, run, jump","Hemenway, Malking Athletic Center, QRAC"
+2,Tennis,"ball, raquet",individual,outdoor court,2,"hands, run","Murr Tennis and Squash, Hemenway, QRAC"
+3,Squash,"ball, raquet",individual,court,1,"hands, run","Murr Tennis and Squash, Hemenway, QRAC"
+4,"Table Tennis, Ping Pong","ball, paddle","individual, team","indoors, table",2,"hands, run",Caspersen Student Center
+5,"Running, jog, walk, track",none,individual,"outdoors, indoors",1,run,"Gordon Indoor Track, Lavietes Pavilion, Malking Athletic Center, Hemenway, Harvard Stadium"
+6,Soccer,"ball, net",team,outdoors,11,"legs, run, head",Jordan Field
+7,Volleyball,"ball, net",team,"indoors, outdoors",4,"arms, sprint, jump, dive",Malking Athletic Cente
+8,"Fencing, fence","stick, full body cover",individual,indoors,2,"arms, legs",Malking Athletic Cente
+9,Football,ball,team,outdoors,11,"arms, legs, full body, run, impact",Harvard Stadium
+10,Rugby,ball,team,outdoors,15,"arms, legs, full body, run, impact",Harvard Stadium
+11,Lacrosse,"ball, stick",team,outdoors,10,"arms, legs, run","Harvard Stadium, Jordan Field, Cumnock Turf"
+12,Baseball,"ball, stick",team,outdoors,12,"arms, run",Lavietes Pavilion
+13,Golf,"ball, stick",individual,outdoors,1,arms,"The Country Club, TPC Boston"
+14,Hockey,"ball, stick, skates",team,indoors,12,"arms, legs, full body, skate",Bright-Landry Hockey Arena
+15,Wrestling,outfit,individual,indoors,2,"arms, legs, full body, impact, core",Malking Athletic Cente
+16,"Rowing, boat","paddle, boat","individual, team",outdoors,1,"arms, legs, full body",Weld Boathouse
+17,"Skiing, Snow Board",skates,individual,outdoors,1,"arms, legs, balance",Contact Harvard Team
+18,Water Polo,"ball, pool",team,indoors,1,"arms, legs, full body","Blodgett Pool, Malking Athletic Center"
+19,Swimming,pool,individual,indoors,1,"arms, legs, full body","Blodgett Pool, Malking Athletic Center"
+20,Gymnastics,balancing equipment,individual,indoors,1,"arms, legs, core",None
+21,Raquetball,"ball, raquet","individual, team",indoors,1,"hands, run",Try: Murr Tennis and Squash
+22,Pickle ball,"ball, paddle",team,"indoors, outdoors",2,"hands, run","Different Student Clubs (GSD, HLS, etc)"
+23,"Weights, Strength Training, weight lifting",Weights,individual,indoors,1,"hands, legs, full body","Hemenway, Malking Athletic Center, QRAC"
