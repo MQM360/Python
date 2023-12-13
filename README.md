@@ -1,11 +1,12 @@
 # Intro_Python
 
-These projects are a collection from platforms I have used to learn the basics of Python.
+These projects are a collection from platforms and courses I have taken to learn Python.
 
-These platforms include the following:
+They include some of the following:
 
-1. Codecademy
-2. EDX.org
-3. Codewithmosh.com
-4. Books
-5. Own Curiosities
+1. Harvard University Courses (as a Grad Student)
+2. Codecademy
+3. EDX.org
+4. Codewithmosh.com
+5. Books
+6. Own Curiosities
