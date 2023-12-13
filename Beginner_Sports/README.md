@@ -18,7 +18,7 @@ Run the csv_to_db.py file and you should have generated a db file in the respect
 4. If the CSV file is missing, you can create your CSV file using the following format and do step 2:
 
 NAME & LOCATION
-Sport Name & Facility, gym, school, etc
+Sport Name & Facility(gym, school, club, etc.)
 
 5. Now that you have your information ready open the app.py file and type flask run to the webserver - click on the link and the website should be ready to use!
 6. Search for a sport.
