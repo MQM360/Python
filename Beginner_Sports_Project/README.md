@@ -16,10 +16,8 @@ These files were written using CS50's platform so implementing it should be fair
 3. If db file is missing and the CSV is present, open the csv_to_db.py file and run it. Make sure that folder paths are correct.
 Run the csv_to_db.py file and you should have generated a db file in the respective folder.
 4. If the CSV file is missing, you can create your CSV file using the following format and do step 2:
-
     NAME & LOCATION
     Sport Name & Facility (Gym, school, etc)
-
 5. Now that you have your information ready open the app.py file and type flask run to the webserver - click on the link and the website should be ready to use!
 6. Search for a sport.
 
